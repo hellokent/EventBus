@@ -1,4 +1,0 @@
-EventBus
-========
-
-EventBus for Android
